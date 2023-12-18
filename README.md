@@ -21,7 +21,7 @@ Sosyal medya hesaplarıma aşağıdan ulaşabilirsin:
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/fehmigunay)
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/fehmiig)
-[!Kişisel Web Sitem(https://icons8.com/icon/1349/website)](https://fehmigunay.com)
+[![Kişisel Web Sitem](https://icons8.com/icon/1349/website)](https://fehmigunay.com)
 Eğer projelerimle ilgili sorularınız veya işbirliği teklifleri varsa, lütfen bana ulaşmaktan çekinmeyin.
 
 ## Müzik dinler misin?
