@@ -1,31 +1,36 @@
-# Merhaba, Ben Fehmi! 👋
+# Hi, I'm Fehmi! 👋
 
-![GitHub followers](https://img.shields.io/github/followers/fehmi?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/fehmi?style=social)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-fehmi-blue)
-![Instagram](https://img.shields.io/badge/Instagram-fehmi-red)
+## About me
 
-## Hakkımda
+Hello! I'm Fehmi, I'm a computer engineer and passionate about software development. My interest in coding, technology and open source projects encourages me to constantly learn.
 
-Merhaba! Ben Fehmi, bilgisayar mühendisiyim ve yazılım geliştirme konusunda tutkulu biriyim. Kodlama, teknoloji ve açık kaynak projelere olan ilgim beni sürekli öğrenmeye teşvik ediyor.
+- JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+- TypeScript ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+- React ![React](https://img.icons8.com/color/48/000000/react-native.png)
+- Next.js ![Next.js](https://img.icons8.com/color/48/000000/next.png)
+- Node.js ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+- Express.js ![Express.js](https://img.icons8.com/color/48/000000/express.png)
+- Angular ![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
+- Python ![Python](https://img.icons8.com/color/48/000000/python.png)
+- C# ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
 
-## Proje İstatistikleri
+## Project Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fehmig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Fehmi'nin GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=fehmig&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
 
-## İletişim
+## Contact
 
-Sosyal medya hesaplarıma aşağıdan ulaşabilirsin:
+You can reach my social media accounts below:
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/fehmigunay)
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/fehmiig)
 
 
-## Diğer Bağlantılar
+## Other Links
 
-- [Kişisel Web Sitem](https://fehmigunay.com) ![Website](https://img.icons8.com/fluency/48/000000/domain.png)
+- [My Personal Website](https://fehmigunay.com) ![Website](https://img.icons8.com/fluency/48/000000/domain.png)
 - [Spotify](https://open.spotify.com/user/SPOTIFY_KULLANICI_ADINIZ) [![Spotify](https://img.icons8.com/color/48/000000/spotify--v1.png)](https://open.spotify.com/user/21ryjbxvr24nrnrjj3cgu6dba?si=0315ee9d0c834276)
 
 Happy coding! 🚀
