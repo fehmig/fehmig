@@ -4,8 +4,7 @@
 
 Hello! I'm Fehmi, I'm a computer engineer and passionate about software development. My interest in coding, technology and open source projects encourages me to constantly learn.
 
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Express.js](![image](https://github.com/fehmig/fehmig/assets/82449304/89ed4469-c80f-40c7-a51b-1b865e18a3d0)
-) ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Express.js](https://icons8.com/icon/kg46nzoJrmTR/express-js) ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
 
 ## Project Statistics
 
