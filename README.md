@@ -24,7 +24,7 @@ Or, connect with my social media accounts:
 
 ## Other Links
 
--  Personal Web Page: [Kişisel Web Sitem](https://img.icons8.com/fluency/48/000000/domain.png)](https://fehmigunay.com)
+-  Personal Web Page: [![Kişisel Web Sitem]](https://img.icons8.com/fluency/48/000000/domain.png)](https://fehmigunay.com)
 - [Spotify](https://open.spotify.com/user/21ryjbxvr24nrnrjj3cgu6dba?si=25cc76e9cd834f28) [![Spotify](https://img.icons8.com/color/48/000000/spotify--v1.png)](https://open.spotify.com/user/21ryjbxvr24nrnrjj3cgu6dba?si=0315ee9d0c834276)
 
 Happy coding! 🚀
