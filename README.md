@@ -4,7 +4,7 @@
 
 Hello! I'm Fehmi, I'm a computer engineer and passionate about software development. My interest in coding, technology and open source projects encourages me to constantly learn.
 
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Express.js](![image](https://github.com/fehmig/fehmig/assets/82449304/3e30f120-a0fb-412f-87db-f46fa101963f)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Express.js](https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png)
 ) ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
 
 ## Project Statistics
