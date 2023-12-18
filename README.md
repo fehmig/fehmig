@@ -1,22 +1,32 @@
-### Hi there 👋
+# Merhaba, Ben Fehmi! 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
-[![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
+![GitHub followers](https://img.shields.io/github/followers/fehmi?style=social)
+![Kişisel Web Sitem](https://fehmigunay.com)
+![Twitter Follow](https://img.shields.io/twitter/follow/fehmi?style=social)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-fehmi-blue)
+![Instagram](https://img.shields.io/badge/Instagram-fehmi-red)
 
+## Hakkımda
 
-<!--
-**fehmig/fehmig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Merhaba! Ben Fehmi, bilgisayar mühendisiyim ve yazılım geliştirme konusunda tutkulu biriyim. Kodlama, teknoloji ve açık kaynak projelere olan ilgim beni sürekli öğrenmeye teşvik ediyor.
 
-Here are some ideas to get you started:
+## Proje İstatistikleri
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fehmig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Fehmi'nin GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=fehmig&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+
+## İletişim
+
+Sosyal medya hesaplarıma aşağıdan ulaşabilirsin:
+
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/fehmigunay)
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/fehmiig)
+
+Eğer projelerimle ilgili sorularınız veya işbirliği teklifleri varsa, lütfen bana ulaşmaktan çekinmeyin.
+
+## Müzik dinler misin?
+
+- [Spotify](https://open.spotify.com/user/SPOTIFY_KULLANICI_ADINIZ) [![Spotify](https://img.icons8.com/color/48/000000/spotify--v1.png)](https://open.spotify.com/user/21ryjbxvr24nrnrjj3cgu6dba?si=0315ee9d0c834276)
+
+Happy coding! 🚀
