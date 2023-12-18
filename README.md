@@ -14,7 +14,7 @@ Hello! I'm Fehmi, I'm a computer engineer and passionate about software developm
 
 ## Contact
 
-You can reach me via email at: [gunay.fehmi14@gmail.com](mailto:gunay.fehmi14@gmail.com)
+You can reach me via email at: [![Email](https://img.icons8.com/fluent/48/000000/email.png)](mailto:gunay.fehmi14@gmail.com)
 
 Or, connect with my social media accounts:
 
