@@ -21,11 +21,11 @@ Sosyal medya hesaplarıma aşağıdan ulaşabilirsin:
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/fehmigunay)
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/fehmiig)
-[Kişisel Web Sitem](https://fehmigunay.com) ![Website](https://img.icons8.com/fluency/48/000000/domain.png)
-Eğer projelerimle ilgili sorularınız veya işbirliği teklifleri varsa, lütfen bana ulaşmaktan çekinmeyin.
 
-## Müzik dinler misin?
 
+## Diğer Bağlantılar
+
+- [Kişisel Web Sitem](https://fehmigunay.com) ![Website](https://img.icons8.com/fluency/48/000000/domain.png)
 - [Spotify](https://open.spotify.com/user/SPOTIFY_KULLANICI_ADINIZ) [![Spotify](https://img.icons8.com/color/48/000000/spotify--v1.png)](https://open.spotify.com/user/21ryjbxvr24nrnrjj3cgu6dba?si=0315ee9d0c834276)
 
 Happy coding! 🚀
