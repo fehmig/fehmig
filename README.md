@@ -2,7 +2,7 @@
 
 ## About me
 
-Hello! I'm Fehmi, I'm a computer engineer and passionate about software development. My interest in coding, technology and open source projects encourages me to constantly learn.
+I'm a computer engineer and passionate about software development. My interest in coding, technology and open source projects encourages me to constantly learn.
 
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)  <img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/> ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
 
